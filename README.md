@@ -9,3 +9,5 @@
 7) npm install
 8) npm run build
 9) Visit http://{site_route}/public
+10) We have one user after seeding database. His credentials: admin@gmail.com | password. <br>
+    However I added register functionality, so you can create additional users for your reasons.
