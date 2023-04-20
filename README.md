@@ -6,5 +6,6 @@
    DB_USERNAME=...
    DB_PASSWORD=...
 6) php artisan migrate:refresh --seed
-7) npm install && npm run build
-8) Visit http://{site_route}/public
+7) npm install
+8) npm run build
+9) Visit http://{site_route}/public
